@@ -11,7 +11,7 @@ let sugar = 0;
 // selecting the element with an id of credit
 const credit = document.querySelector("#credit");
 
-//add button gb
+// selecting the element with an id of add-gb
 const gbPlusBtn = document.querySelector("#add-gb");
 
 // Code to update name display
